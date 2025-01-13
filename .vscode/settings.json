@@ -6,7 +6,7 @@
     "strings": false
   },
   "editor.parameterHints": false,
-  "editor.autoIndent": false,
+  "editor.autoIndent": "advanced",
   "editor.autoSurround": "never",
   "editor.snippetSuggestions": "none"
 }
