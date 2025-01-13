@@ -14,4 +14,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-10 | - [Rotate an array](./Arrays/rotateArray.js)                                                              |
 | 2025-01-10 | - [Next permutation](./Arrays/rotateArray.js)                                                             |
 | 2025-01-10 | - [Majority Elements](./Arrays/majorityElements.js)                                                       |
+| 2025-01-13 | - [Stock Buy and Sell](./Arrays/StockBuyandSell.js.js)                                                    |
 | 2025-01-13 | - [split Array In Three Equal Sum SubArray](./Arrays/BonusProblems/splitarrayinthreeequalsumsubarrays.js) |
