@@ -23,7 +23,7 @@ function kadanesAngorithm(arr) {
   let curMax = arr[0];
 
   for (let i = 1; i < arr.length; i++) {
-    curMax = Math.max(Math.max(curMax + arr[i], arr[i]));
+    curMax = Math.max(curMax + arr[i], arr[i]);
     res = Math.max(curMax, res);
   }
   return res;

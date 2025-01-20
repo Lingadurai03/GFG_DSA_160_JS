@@ -18,4 +18,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-13 | - [Stock Buy and Sell Max One](./Arrays/stockBuyAndSellMaxOne.js)                                         |
 | 2025-01-13 | - [Minimize The Height](./Arrays/MinimizeTheHeights.js)                                                   |
 | 2025-01-20 | - [Kadanes Algorithm](./Arrays/kadanesAlgorithm.js)                                                       |
+| 2025-01-20 | - [Maximum Product Subarray](./Arrays/maximumProductSubarray.js)                                          |
 | 2025-01-13 | - [split Array In Three Equal Sum SubArray](./Arrays/BonusProblems/splitarrayinthreeequalsumsubarrays.js) |
