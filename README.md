@@ -25,3 +25,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-21 | - [Repetitive Addition Of Digits](./Arrays/BonusProblems/repetitiveAdditionOfDigits.js)                   |
 | 2025-01-21 | - [Maximize Number Of 1s](./Arrays/BonusProblems/maximizeNumberOf1s.js)                                   |
 | 2025-01-21 | - [All Ants Fall Out of a Plank](./Arrays/BonusProblems/lastMomentBeforeAllAntsFallOutOfaPlank.js)        |
+
+## **String**
+
+| Date       | Problems Solved                               |
+| ---------- | --------------------------------------------- |
+| 2025-01-21 | - [Implement Atoi](./String/implementAtoi.js) |
