@@ -21,4 +21,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-20 | - [Maximum Product Subarray](./Arrays/maximumProductSubarray.js)                                          |
 | 2025-01-20 | - [Max Circular Subarray Sum](./Arrays/maxCircularSubarraySum.js)                                         |
 | 2025-01-20 | - [Smallest Positive Missing](./Arrays/smallestPositiveMissing.js)                                        |
-| 2025-01-13 | - [split Array In Three Equal Sum SubArray](./Arrays/BonusProblems/splitarrayinthreeequalsumsubarrays.js) |
+| 2025-01-13 | - [Split Array In Three Equal Sum SubArray](./Arrays/BonusProblems/splitarrayinthreeequalsumsubarrays.js) |
+| 2025-01-21 | - [Repetitive Addition Of Digits](./Arrays/BonusProblems/repetitiveAdditionOfDigits.js)                   |
