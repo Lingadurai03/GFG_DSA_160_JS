@@ -32,3 +32,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | ---------- | ---------------------------------------------------- |
 | 2025-01-21 | - [Implement Atoi](./String/implementAtoi.js)        |
 | 2025-01-22 | - [Add Binary Strings](./String/addBinaryStrings.js) |
+| 2025-01-22 | - [Add Binary Strings](./String/anagram.js)          |
