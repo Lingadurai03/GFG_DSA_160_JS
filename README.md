@@ -37,3 +37,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-23 | - [String searching pattern](./String/searchPattern.js)                     |
 | 2025-01-23 | - [Min Chars To Add For Palindrome](./String/minCharsToAddForPalindrome.js) |
 | 2025-01-23 | - [String Rotation](./String/stringsRotationsOfEachOther.js)                |
+| 2025-01-23 | - [Fizz Buzz](./String/BonusProblems/fizzBuzz.js)                           |
