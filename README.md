@@ -39,3 +39,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-23 | - [String Rotation](./String/stringsRotationsOfEachOther.js)                       |
 | 2025-01-23 | - [Fizz Buzz](./String/BonusProblems/fizzBuzz.js)                                  |
 | 2025-01-23 | - [CamelCase Pattern Matching](./String/BonusProblems/camelCasePatternMatching.js) |
+| 2025-01-23 | - [Palindrome Sentence](./String/BonusProblems/palindromeSentence.js)              |
