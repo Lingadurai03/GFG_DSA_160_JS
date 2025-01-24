@@ -42,3 +42,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-23 | - [Palindrome Sentence](./String/BonusProblems/palindromeSentence.js)                        |
 | 2025-01-23 | - [Minimum Repeat To Make Substring](./String/BonusProblems/minimumRepeatToMakeSubstring.js) |
 | 2025-01-23 | - [Longest Prefix And Suffix](./String/BonusProblems/longestPrefixSuffix.js)                 |
+| 2025-01-24 | - [Integer To Words](./String/BonusProblems/integerToWords.js)                               |
