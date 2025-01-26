@@ -63,7 +63,7 @@ function merge(arr, left, mid, right) {
     arr[k++] = arr1[i++];
   }
 
-  while (i < n2) {
+  while (j < n2) {
     arr[k++] = arr2[j++];
   }
   return res;
