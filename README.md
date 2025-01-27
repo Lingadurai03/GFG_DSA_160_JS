@@ -46,9 +46,10 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Sorting**
 
-| Date       | Problems Solved                                                |
-| ---------- | -------------------------------------------------------------- |
-| 2025-01-24 | - [Sort 0s 1s And 2s](./Sorting/Sort0s1sAnd2s.js)              |
-| 2025-01-26 | - [Find H Index](./Sorting/findH-Index.js)                     |
-| 2025-01-26 | - [Count Inversions](./Sorting/countInversion.js)              |
-| 2025-01-26 | - [OverLaping Intervals](./Sorting/overlappingIntervals.js.js) |
+| Date       | Problems Solved                                             |
+| ---------- | ----------------------------------------------------------- |
+| 2025-01-24 | - [Sort 0s 1s And 2s](./Sorting/Sort0s1sAnd2s.js)           |
+| 2025-01-26 | - [Find H Index](./Sorting/findH-Index.js)                  |
+| 2025-01-26 | - [Count Inversions](./Sorting/countInversion.js)           |
+| 2025-01-26 | - [OverLaping Intervals](./Sorting/overlappingIntervals.js) |
+| 2025-01-27 | - [Insert Intervals](./Sorting/insertInterval.js)           |
