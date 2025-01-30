@@ -53,3 +53,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-26 | - [Count Inversions](./Sorting/countInversion.js)           |
 | 2025-01-26 | - [OverLaping Intervals](./Sorting/overlappingIntervals.js) |
 | 2025-01-27 | - [Insert Intervals](./Sorting/insertInterval.js)           |
+| 2025-01-27 | - [Insert Intervals](./Sorting/non-OverlapingIntervals.js)  |
