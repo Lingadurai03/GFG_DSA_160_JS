@@ -55,4 +55,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-27 | - [Insert Intervals](./Sorting/insertInterval.js)                  |
 | 2025-01-27 | - [Non Overlaping Intervals](./Sorting/non-OverlapingIntervals.js) |
 | 2025-02-10 | - [Merge Without ExtraSpace](./Sorting/mergeWithoutExtraSpace.js)  |
-| 2025-02-10 | - [Minimum Sum](./Sorting/BonusProblems/minimumSum.js)             |
+| 2025-02-11 | - [Minimum Sum](./Sorting/BonusProblems/minimumSum.js)             |
+| 2025-02-12 | - [Meeting Rooms](./Sorting/BonusProblems/meetingRooms.js)         |
