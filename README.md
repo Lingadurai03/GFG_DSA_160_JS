@@ -60,8 +60,8 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-12 | - [Form Largest Number](./Sorting/BonusProblems/FormLargetstNumber.js)           |
 | 2025-02-12 | - [Make Array Element Unique](./Sorting/BonusProblems/makeArrayElementUnique.js) |
 
-## **Sorting**
+## **Searching**
 
-| Date       | Problems Solved                                   |
-| ---------- | ------------------------------------------------- |
-| 2025-01-24 | - [Sort 0s 1s And 2s](./Sorting/Sort0s1sAnd2s.js) |
+| Date       | Problems Solved                                             |
+| ---------- | ----------------------------------------------------------- |
+| 2025-01-24 | - [Number Of Occurrence](./Searching/numberOfOccurrence.js) |
