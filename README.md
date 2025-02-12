@@ -62,7 +62,8 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Searching**
 
-| Date       | Problems Solved                                                        |
-| ---------- | ---------------------------------------------------------------------- |
-| 2025-01-24 | - [Number Of Occurrence](./Searching/numberOfOccurrence.js)            |
-| 2025-01-24 | - [Sorted And Rotated Minimum](./Searching/sortedAndRotatedMinimum.js) |
+| Date       | Problems Solved                                                               |
+| ---------- | ----------------------------------------------------------------------------- |
+| 2025-01-24 | - [Number Of Occurrence](./Searching/numberOfOccurrence.js)                   |
+| 2025-01-24 | - [Sorted And Rotated Minimum](./Searching/sortedAndRotatedMinimum.js)        |
+| 2025-01-24 | - [Search In Rotated Sorted Array](./Searching/searchInRotatedSortedArray.js) |
