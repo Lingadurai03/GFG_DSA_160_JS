@@ -46,15 +46,22 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Sorting**
 
-| Date       | Problems Solved                                                        |
-| ---------- | ---------------------------------------------------------------------- |
-| 2025-01-24 | - [Sort 0s 1s And 2s](./Sorting/Sort0s1sAnd2s.js)                      |
-| 2025-01-26 | - [Find H Index](./Sorting/findH-Index.js)                             |
-| 2025-01-26 | - [Count Inversions](./Sorting/countInversion.js)                      |
-| 2025-01-26 | - [OverLaping Intervals](./Sorting/overlappingIntervals.js)            |
-| 2025-01-27 | - [Insert Intervals](./Sorting/insertInterval.js)                      |
-| 2025-01-27 | - [Non Overlaping Intervals](./Sorting/non-OverlapingIntervals.js)     |
-| 2025-02-10 | - [Merge Without ExtraSpace](./Sorting/mergeWithoutExtraSpace.js)      |
-| 2025-02-11 | - [Minimum Sum](./Sorting/BonusProblems/minimumSum.js)                 |
-| 2025-02-12 | - [Meeting Rooms](./Sorting/BonusProblems/meetingRooms.js)             |
-| 2025-02-12 | - [Form Largest Number](./Sorting/BonusProblems/FormLargetstNumber.js) |
+| Date       | Problems Solved                                                                  |
+| ---------- | -------------------------------------------------------------------------------- |
+| 2025-01-24 | - [Sort 0s 1s And 2s](./Sorting/Sort0s1sAnd2s.js)                                |
+| 2025-01-26 | - [Find H Index](./Sorting/findH-Index.js)                                       |
+| 2025-01-26 | - [Count Inversions](./Sorting/countInversion.js)                                |
+| 2025-01-26 | - [OverLaping Intervals](./Sorting/overlappingIntervals.js)                      |
+| 2025-01-27 | - [Insert Intervals](./Sorting/insertInterval.js)                                |
+| 2025-01-27 | - [Non Overlaping Intervals](./Sorting/non-OverlapingIntervals.js)               |
+| 2025-02-10 | - [Merge Without ExtraSpace](./Sorting/mergeWithoutExtraSpace.js)                |
+| 2025-02-11 | - [Minimum Sum](./Sorting/BonusProblems/minimumSum.js)                           |
+| 2025-02-12 | - [Meeting Rooms](./Sorting/BonusProblems/meetingRooms.js)                       |
+| 2025-02-12 | - [Form Largest Number](./Sorting/BonusProblems/FormLargetstNumber.js)           |
+| 2025-02-12 | - [Make Array Element Unique](./Sorting/BonusProblems/makeArrayElementUnique.js) |
+
+## **Sorting**
+
+| Date       | Problems Solved                                   |
+| ---------- | ------------------------------------------------- |
+| 2025-01-24 | - [Sort 0s 1s And 2s](./Sorting/Sort0s1sAnd2s.js) |
