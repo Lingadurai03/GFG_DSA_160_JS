@@ -28,8 +28,7 @@ function search(arr, key) {
 
     if (arr[low] < arr[mid]) {
       if (key >= arr[low] && key < arr[mid]) {
-        high = mid;
-        -1;
+        high = mid - 1;
       } else {
         low = mid + 1;
       }
@@ -44,4 +43,4 @@ function search(arr, key) {
   return -1;
 }
 
-console.log(search([5, 6, 7, 8, 9, 10, 1, 2, 3], 4));
+console.log(search([5, 6, 7, 8, 9, 10, 1, 2, 3], 3));
