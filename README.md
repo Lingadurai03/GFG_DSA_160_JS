@@ -62,11 +62,13 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Searching**
 
-| Date       | Problems Solved                                                                   |
-| ---------- | --------------------------------------------------------------------------------- |
-| 2025-02-13 | - [Number Of Occurrence](./Searching/numberOfOccurrence.js)                       |
-| 2025-02-13 | - [Sorted And Rotated Minimum](./Searching/sortedAndRotatedMinimum.js)            |
-| 2025-02-13 | - [Search In Rotated Sorted Array](./Searching/searchInRotatedSortedArray.js)     |
-| 2025-02-13 | - [Peak Element](./Searching/peakElement.js)                                      |
+| Date       | Problems Solved                                                               |
+| ---------- | ----------------------------------------------------------------------------- |
+| 2025-02-13 | - [Number Of Occurrence](./Searching/numberOfOccurrence.js)                   |
+| 2025-02-13 | - [Sorted And Rotated Minimum](./Searching/sortedAndRotatedMinimum.js)        |
+| 2025-02-13 | - [Search In Rotated Sorted Array](./Searching/searchInRotatedSortedArray.js) |
+| 2025-02-13 | - [Peak Element](./Searching/peakElement.js)                                  |
+| 2025-02-14 | - [K-th Element Of 2 Sorted Array ](./Searching/k-thElementOf2SortedArray.js) |
+| 2025-02-14 | - [Aggressive Cows ](./Searching/aggressiveCows.js)                           |
+
 | 2025-02-14 | - [Median Of 2 Sorted Arrays ](./Searching/bonusProblem/medianOf2SortedArrays.js) |
-| 2025-02-14 | - [K-th Element Of 2 Sorted Array ](./Searching/k-thElementOf2SortedArray.js)     |
