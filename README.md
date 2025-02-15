@@ -70,5 +70,6 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-13 | - [Peak Element](./Searching/peakElement.js)                                  |
 | 2025-02-14 | - [K-th Element Of 2 Sorted Array ](./Searching/k-thElementOf2SortedArray.js) |
 | 2025-02-14 | - [Aggressive Cows ](./Searching/aggressiveCows.js)                           |
+| 2025-02-14 | - [Allocate Minimum Pages](./Searching/allocateMinimumPages.js)               |
 
 | 2025-02-14 | - [Median Of 2 Sorted Arrays ](./Searching/bonusProblem/medianOf2SortedArrays.js) |
