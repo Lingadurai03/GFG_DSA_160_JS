@@ -75,3 +75,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 | 2025-02-14 | - [Median Of 2 Sorted Arrays ](./Searching/bonusProblem/medianOf2SortedArrays.js) |
 | 2025-02-15 | - [Implement Lower Bound ](./Searching/bonusProblem/implementLowerBound.js) |
+| 2025-02-15 | - [Botonic Point](./Searching/bonusProblem/botonicPoint.js) |
