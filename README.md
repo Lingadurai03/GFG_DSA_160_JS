@@ -79,3 +79,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-15 | - [Square Root](./Searching/bonusProblem/squareRoot.js) |
 | 2025-02-15 | - [Koko Eating Bananas](./Searching/bonusProblem/kokoEatingBananas.js) |
 | 2025-02-15 | - [Minimum Days To Make Bouquets](./Searching/bonusProblem/minimumDaysMakeBouquets.js) |
+
+## **Hashing**
+
+| Date       | Problems Solved                  |
+| ---------- | -------------------------------- |
+| 2025-02-16 | - [Two sum](./Hashing/twoSum.js) |
