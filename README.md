@@ -86,3 +86,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | ---------- | ------------------------------------------------------------------- |
 | 2025-02-16 | - [Two sum](./Hashing/twoSum.js)                                    |
 | 2025-02-16 | - [Count Pairs With Given Sum](./Hashing/countPairsWithGivenSum.js) |
+| 2025-02-20 | - [Find All Triplets](./Hashing/findAllTriplets.js)                 |
