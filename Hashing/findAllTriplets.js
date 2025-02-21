@@ -21,15 +21,14 @@
 // -104 <= arr[i] <= 104
 
 function findTriplets(arr) {
-  // Set to handle duplicates
-  let resSet = new Set();
+  const mp = new Map();
   let n = arr.length;
-  let mp = new Map();
+  const res = new Set();
 
-  // Store sum of all the pairs with their indices
   for (let i = 0; i < n; i++) {
     for (let j = i + 1; j < n; j++) {
       let sum = arr[i] + arr[j];
+
       if (!mp.has(sum)) {
         mp.set(sum, []);
       }
@@ -38,20 +37,19 @@ function findTriplets(arr) {
   }
 
   for (let i = 0; i < n; i++) {
-    // Find remaining value to get zero sum
     let rem = -arr[i];
+
     if (mp.has(rem)) {
       let pairs = mp.get(rem);
       for (let p of pairs) {
-        // Ensure no two indices are the same in the triplet
-        if (p[0] != i && p[1] != i) {
-          let curr = [i, p[0], p[1]].sort((a, b) => a - b);
-          resSet.add(curr.join(','));
+        if (p[0] != 1 && p[1] != 1) {
+          let cur = [i, p[0], p[1]].sort((a, b) => a - b);
+          res.add(cur.join(','));
         }
       }
     }
   }
-  return Array.from(resSet).map((triplet) => triplet.split(',').map(Number));
+  console.log(Array.from(res).map((val) => val.split(',').map(Number)));
 }
 
 const arr = [0, -1, 2, -3, 1];
