@@ -92,3 +92,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-22 | - [Longest Consecutive Subsequence](./Hashing/longestConsecutiveSubsequence.js) |
 | 2025-02-22 | - [Print Anagram Together](./Hashing/printAnagramsTogether.js)                  |
 | 2025-02-24 | - [Sub Array With Sum K](./Hashing/subarrayswithSumK.js)                        |
+| 2025-02-24 | - [Count Subarrays With Given XOR](./Hashing/countSubarraysWithGivenXOR.js)     |
