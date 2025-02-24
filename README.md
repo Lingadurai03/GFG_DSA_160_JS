@@ -82,15 +82,16 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Hashing**
 
-| Date       | Problems Solved                                                                 |
-| ---------- | ------------------------------------------------------------------------------- |
-| 2025-02-16 | - [Two sum](./Hashing/twoSum.js)                                                |
-| 2025-02-16 | - [Count Pairs With Given Sum](./Hashing/countPairsWithGivenSum.js)             |
-| 2025-02-20 | - [Find All Triplets](./Hashing/findAllTriplets.js)                             |
-| 2025-02-21 | - [Intersection Of Two Arrays](./Hashing/intersectionOfTwoarrays%20.js)         |
-| 2025-02-21 | - [Union Of Arrays](./Hashing/unionOfArrays.js)                                 |
-| 2025-02-22 | - [Longest Consecutive Subsequence](./Hashing/longestConsecutiveSubsequence.js) |
-| 2025-02-22 | - [Print Anagram Together](./Hashing/printAnagramsTogether.js)                  |
-| 2025-02-24 | - [Sub Array With Sum K](./Hashing/subarrayswithSumK.js)                        |
-| 2025-02-24 | - [Count Subarrays With Given XOR](./Hashing/countSubarraysWithGivenXOR.js)     |
-| 2025-02-24 | - [Roman Number To Integer](./Hashing/bonusQuestions/romanNumberToInteger.js)   |
+| Date       | Problems Solved                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------- |
+| 2025-02-16 | - [Two sum](./Hashing/twoSum.js)                                                                  |
+| 2025-02-16 | - [Count Pairs With Given Sum](./Hashing/countPairsWithGivenSum.js)                               |
+| 2025-02-20 | - [Find All Triplets](./Hashing/findAllTriplets.js)                                               |
+| 2025-02-21 | - [Intersection Of Two Arrays](./Hashing/intersectionOfTwoarrays%20.js)                           |
+| 2025-02-21 | - [Union Of Arrays](./Hashing/unionOfArrays.js)                                                   |
+| 2025-02-22 | - [Longest Consecutive Subsequence](./Hashing/longestConsecutiveSubsequence.js)                   |
+| 2025-02-22 | - [Print Anagram Together](./Hashing/printAnagramsTogether.js)                                    |
+| 2025-02-24 | - [Sub Array With Sum K](./Hashing/subarrayswithSumK.js)                                          |
+| 2025-02-24 | - [Count Subarrays With Given XOR](./Hashing/countSubarraysWithGivenXOR.js)                       |
+| 2025-02-24 | - [Roman Number To Integer](./Hashing/bonusQuestions/romanNumberToInteger.js)                     |
+| 2025-02-24 | - [MaxDistance Between Same Elements](./Hashing/bonusQuestions/maxDistanceBetweenSameElements.js) |
