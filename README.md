@@ -96,3 +96,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-24 | - [Roman Number To Integer](./Hashing/bonusQuestions/romanNumberToInteger.js)                     |
 | 2025-02-24 | - [MaxDistance Between Same Elements](./Hashing/bonusQuestions/maxDistanceBetweenSameElements.js) |
 | 2025-02-25 | - [Count pairs](./Hashing/bonusQuestions/pairsWithDifferencek.js)                                 |
+| 2025-02-25 | - [Four Sum](./Hashing/bonusQuestions/fourSum.js)                                                 |
