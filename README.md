@@ -97,4 +97,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-24 | - [MaxDistance Between Same Elements](./Hashing/bonusQuestions/maxDistanceBetweenSameElements.js) |
 | 2025-02-25 | - [Count pairs](./Hashing/bonusQuestions/pairsWithDifferencek.js)                                 |
 | 2025-02-25 | - [Four Sum](./Hashing/bonusQuestions/fourSum.js)                                                 |
-| 2025-02-25 | - [Min Subsets with Consecutive Numbers](./Hashing/bonusQuestions/MinSubsets.js)                  |
+| 2025-02-26 | - [Min Subsets with Consecutive Numbers](./Hashing/bonusQuestions/MinSubsets.js)                  |
+| 2025-02-26 | - [Group Shifted String](./Hashing/bonusQuestions/groupShiftedString.js)                          |
