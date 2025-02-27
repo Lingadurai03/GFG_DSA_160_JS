@@ -62,22 +62,21 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Searching**
 
-| Date       | Problems Solved                                                               |
-| ---------- | ----------------------------------------------------------------------------- |
-| 2025-02-13 | - [Number Of Occurrence](./Searching/numberOfOccurrence.js)                   |
-| 2025-02-13 | - [Sorted And Rotated Minimum](./Searching/sortedAndRotatedMinimum.js)        |
-| 2025-02-13 | - [Search In Rotated Sorted Array](./Searching/searchInRotatedSortedArray.js) |
-| 2025-02-13 | - [Peak Element](./Searching/peakElement.js)                                  |
-| 2025-02-14 | - [K-th Element Of 2 Sorted Array ](./Searching/k-thElementOf2SortedArray.js) |
-| 2025-02-14 | - [Aggressive Cows ](./Searching/aggressiveCows.js)                           |
-| 2025-02-15 | - [Allocate Minimum Pages](./Searching/allocateMinimumPages.js)               |
-| 2025-02-15 | - [k-th Missing Number](./Searching/k-thMissingNumber.js)                     |
-
-| 2025-02-14 | - [Median Of 2 Sorted Arrays ](./Searching/bonusProblem/medianOf2SortedArrays.js) |
-| 2025-02-15 | - [Implement Lower Bound ](./Searching/bonusProblem/implementLowerBound.js) |
-| 2025-02-15 | - [Botonic Point](./Searching/bonusProblem/botonicPoint.js) |
-| 2025-02-15 | - [Square Root](./Searching/bonusProblem/squareRoot.js) |
-| 2025-02-15 | - [Koko Eating Bananas](./Searching/bonusProblem/kokoEatingBananas.js) |
+| Date       | Problems Solved                                                                        |
+| ---------- | -------------------------------------------------------------------------------------- |
+| 2025-02-13 | - [Number Of Occurrence](./Searching/numberOfOccurrence.js)                            |
+| 2025-02-13 | - [Sorted And Rotated Minimum](./Searching/sortedAndRotatedMinimum.js)                 |
+| 2025-02-13 | - [Search In Rotated Sorted Array](./Searching/searchInRotatedSortedArray.js)          |
+| 2025-02-13 | - [Peak Element](./Searching/peakElement.js)                                           |
+| 2025-02-14 | - [K-th Element Of 2 Sorted Array ](./Searching/k-thElementOf2SortedArray.js)          |
+| 2025-02-14 | - [Aggressive Cows ](./Searching/aggressiveCows.js)                                    |
+| 2025-02-15 | - [Allocate Minimum Pages](./Searching/allocateMinimumPages.js)                        |
+| 2025-02-15 | - [k-th Missing Number](./Searching/k-thMissingNumber.js)                              |
+| 2025-02-14 | - [Median Of 2 Sorted Arrays ](./Searching/bonusProblem/medianOf2SortedArrays.js)      |
+| 2025-02-15 | - [Implement Lower Bound ](./Searching/bonusProblem/implementLowerBound.js)            |
+| 2025-02-15 | - [Botonic Point](./Searching/bonusProblem/botonicPoint.js)                            |
+| 2025-02-15 | - [Square Root](./Searching/bonusProblem/squareRoot.js)                                |
+| 2025-02-15 | - [Koko Eating Bananas](./Searching/bonusProblem/kokoEatingBananas.js)                 |
 | 2025-02-15 | - [Minimum Days To Make Bouquets](./Searching/bonusProblem/minimumDaysMakeBouquets.js) |
 
 ## **Hashing**
@@ -99,3 +98,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-25 | - [Four Sum](./Hashing/bonusQuestions/fourSum.js)                                                 |
 | 2025-02-26 | - [Min Subsets with Consecutive Numbers](./Hashing/bonusQuestions/MinSubsets.js)                  |
 | 2025-02-26 | - [Group Shifted String](./Hashing/bonusQuestions/groupShiftedString.js)                          |
+
+## **Two Pointers**
+
+| Date       | Problems Solved                                           |
+| ---------- | --------------------------------------------------------- |
+| 2025-02-27 | - [Count All Triplets](./TwoPointers/countAllTriplets.js) |
