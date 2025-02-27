@@ -104,3 +104,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | Date       | Problems Solved                                           |
 | ---------- | --------------------------------------------------------- |
 | 2025-02-27 | - [Count All Triplets](./TwoPointers/countAllTriplets.js) |
+| 2025-02-27 | - [Count Pairs](./TwoPointers/CountPairs.js)              |
