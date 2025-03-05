@@ -112,3 +112,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-04 | - [Count Distinct Element](./TwoPointers/countDistinctElements.js)                                 |
 | 2025-03-05 | - [Longest substring with distinct chars](./TwoPointers/longestSubstringWithDistinctCharacters.js) |
 | 2025-03-05 | - [Trapping Rain Water](./TwoPointers/trappingRainWater.js)                                        |
+| 2025-03-05 | - [Container With Most Water](./TwoPointers/containerWithMostWater.js)                             |
