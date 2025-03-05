@@ -101,12 +101,13 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Two Pointers**
 
-| Date       | Problems Solved                                                         |
-| ---------- | ----------------------------------------------------------------------- |
-| 2025-02-27 | - [Count All Triplets](./TwoPointers/countAllTriplets.js)               |
-| 2025-02-27 | - [Count Pairs](./TwoPointers/CountPairs.js)                            |
-| 2025-02-27 | - [Sum Pair Closest To Target](./TwoPointers/sumPairClosestToTarget.js) |
-| 2025-02-28 | - [Pair Of Given Sum](./TwoPointers/pairOfGivenSum.js)                  |
-| 2025-03-04 | - [Count Triangles](./TwoPointers/pairOfGivenSum.js)                    |
-| 2025-03-04 | - [Find Index Of Sub Array Sum](./TwoPointers/indexesOfSubarraySum.js)  |
-| 2025-03-04 | - [Count Distinct Element](./TwoPointers/countDistinctElements.js)      |
+| Date       | Problems Solved                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------- |
+| 2025-02-27 | - [Count All Triplets](./TwoPointers/countAllTriplets.js)                                          |
+| 2025-02-27 | - [Count Pairs](./TwoPointers/CountPairs.js)                                                       |
+| 2025-02-27 | - [Sum Pair Closest To Target](./TwoPointers/sumPairClosestToTarget.js)                            |
+| 2025-02-28 | - [Pair Of Given Sum](./TwoPointers/pairOfGivenSum.js)                                             |
+| 2025-03-04 | - [Count Triangles](./TwoPointers/pairOfGivenSum.js)                                               |
+| 2025-03-04 | - [Find Index Of Sub Array Sum](./TwoPointers/indexesOfSubarraySum.js)                             |
+| 2025-03-04 | - [Count Distinct Element](./TwoPointers/countDistinctElements.js)                                 |
+| 2025-03-05 | - [Longest substring with distinct chars](./TwoPointers/longestSubstringWithDistinctCharacters.js) |
