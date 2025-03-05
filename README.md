@@ -108,4 +108,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-27 | - [Sum Pair Closest To Target](./TwoPointers/sumPairClosestToTarget.js) |
 | 2025-02-28 | - [Pair Of Given Sum](./TwoPointers/pairOfGivenSum.js)                  |
 | 2025-03-04 | - [Count Triangles](./TwoPointers/pairOfGivenSum.js)                    |
-| 2025-03-04 | - [find Index Of Sub Array Sum](./TwoPointers/indexesOfSubarraySum.js)  |
+| 2025-03-04 | - [Find Index Of Sub Array Sum](./TwoPointers/indexesOfSubarraySum.js)  |
+| 2025-03-04 | - [Count Distinct Element](./TwoPointers/countDistinctElements.js)      |
