@@ -118,3 +118,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-12 | - [Four Sum of All Quadruples](./TwoPointers/bonusProblem/fourSumAllQuadruples.js)                       |
 | 2025-03-12 | - [subarrays with K Distinct Integers](./TwoPointers/bonusProblem/subarraysWithMostKDistinctIntegers.js) |
 | 2025-03-12 | - [subarrays with Distinct Integers](./TwoPointers/bonusProblem/subarraysWithKDistinctIntegers.js)       |
+| 2025-03-12 | - [Minimum Removals For Target Sum](./TwoPointers/bonusProblem/minimumRemovalsForTargetSum.js)           |
