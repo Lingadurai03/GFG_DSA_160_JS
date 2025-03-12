@@ -101,18 +101,19 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Two Pointers**
 
-| Date       | Problems Solved                                                                                    |
-| ---------- | -------------------------------------------------------------------------------------------------- |
-| 2025-02-27 | - [Count All Triplets](./TwoPointers/countAllTriplets.js)                                          |
-| 2025-02-27 | - [Count Pairs](./TwoPointers/CountPairs.js)                                                       |
-| 2025-02-27 | - [Sum Pair Closest To Target](./TwoPointers/sumPairClosestToTarget.js)                            |
-| 2025-02-28 | - [Pair Of Given Sum](./TwoPointers/pairOfGivenSum.js)                                             |
-| 2025-03-04 | - [Count Triangles](./TwoPointers/pairOfGivenSum.js)                                               |
-| 2025-03-04 | - [Find Index Of Sub Array Sum](./TwoPointers/indexesOfSubarraySum.js)                             |
-| 2025-03-04 | - [Count Distinct Element](./TwoPointers/countDistinctElements.js)                                 |
-| 2025-03-05 | - [Longest substring with distinct chars](./TwoPointers/longestSubstringWithDistinctCharacters.js) |
-| 2025-03-05 | - [Trapping Rain Water](./TwoPointers/trappingRainWater.js)                                        |
-| 2025-03-05 | - [Container With Most Water](./TwoPointers/containerWithMostWater.js)                             |
-| 2025-03-10 | - [Find Triplet](./TwoPointers/bonusProblem/tripletSumInArray.js)                                  |
-| 2025-03-11 | - [3 Sum Closet](./TwoPointers/bonusProblem/3SumCloset.js)                                         |
-| 2025-03-12 | - [Four Sum of All Quadruples](./TwoPointers/bonusProblem/fourSumAllQuadruples.js)                 |
+| Date       | Problems Solved                                                                                          |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| 2025-02-27 | - [Count All Triplets](./TwoPointers/countAllTriplets.js)                                                |
+| 2025-02-27 | - [Count Pairs](./TwoPointers/CountPairs.js)                                                             |
+| 2025-02-27 | - [Sum Pair Closest To Target](./TwoPointers/sumPairClosestToTarget.js)                                  |
+| 2025-02-28 | - [Pair Of Given Sum](./TwoPointers/pairOfGivenSum.js)                                                   |
+| 2025-03-04 | - [Count Triangles](./TwoPointers/pairOfGivenSum.js)                                                     |
+| 2025-03-04 | - [Find Index Of Sub Array Sum](./TwoPointers/indexesOfSubarraySum.js)                                   |
+| 2025-03-04 | - [Count Distinct Element](./TwoPointers/countDistinctElements.js)                                       |
+| 2025-03-05 | - [Longest substring with distinct chars](./TwoPointers/longestSubstringWithDistinctCharacters.js)       |
+| 2025-03-05 | - [Trapping Rain Water](./TwoPointers/trappingRainWater.js)                                              |
+| 2025-03-05 | - [Container With Most Water](./TwoPointers/containerWithMostWater.js)                                   |
+| 2025-03-10 | - [Find Triplet](./TwoPointers/bonusProblem/tripletSumInArray.js)                                        |
+| 2025-03-11 | - [3 Sum Closet](./TwoPointers/bonusProblem/3SumCloset.js)                                               |
+| 2025-03-12 | - [Four Sum of All Quadruples](./TwoPointers/bonusProblem/fourSumAllQuadruples.js)                       |
+| 2025-03-12 | - [subarrays with K Distinct Integers](./TwoPointers/bonusProblem/subarraysWithMostKDistinctIntegers.js) |
