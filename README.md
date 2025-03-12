@@ -115,3 +115,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-05 | - [Container With Most Water](./TwoPointers/containerWithMostWater.js)                             |
 | 2025-03-10 | - [Find Triplet](./TwoPointers/bonusProblem/tripletSumInArray.js)                                  |
 | 2025-03-11 | - [3 Sum Closet](./TwoPointers/bonusProblem/3SumCloset.js)                                         |
+| 2025-03-12 | - [Four Sum of All Quadruples](./TwoPointers/bonusProblem/fourSumAllQuadruples.js)                 |
