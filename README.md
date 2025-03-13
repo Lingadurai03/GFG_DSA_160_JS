@@ -123,6 +123,7 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Stack**
 
-| Date       | Problems Solved                                        |
-| ---------- | ------------------------------------------------------ |
-| 2025-03-13 | - [Paranthesis Checker](./stack/parenthesisChecker.js) |
+| Date       | Problems Solved                                                        |
+| ---------- | ---------------------------------------------------------------------- |
+| 2025-03-13 | - [Paranthesis Checker](./stack/parenthesisChecker.js)                 |
+| 2025-03-13 | - [Find Longest Valid Parantheses](./stack/longestValidParentheses.js) |
