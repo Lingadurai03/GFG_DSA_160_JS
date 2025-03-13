@@ -120,3 +120,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-12 | - [subarrays with Distinct Integers](./TwoPointers/bonusProblem/subarraysWithKDistinctIntegers.js)       |
 | 2025-03-12 | - [Minimum Removals For Target Sum](./TwoPointers/bonusProblem/minimumRemovalsForTargetSum.js)           |
 | 2025-03-13 | - [Find pairs in sorted and rotated array](./TwoPointers/bonusProblem/pairSumInSortedAndRotatedArray.js) |
+
+## **Stack**
+
+| Date       | Problems Solved                                        |
+| ---------- | ------------------------------------------------------ |
+| 2025-03-13 | - [Paranthesis Checker](./stack/parenthesisChecker.js) |
