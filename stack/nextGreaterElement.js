@@ -40,29 +40,17 @@
 // ------   Using Stack   ------  Time O(n) And Space O(n)
 function nextGreaterElement(arr) {
   let stack = [];
+  let res = Array(arr.length).fill(-1);
 
   for (let i = arr.length - 1; i >= 0; i--) {
-    if (stack.length == 0) {
-      stack.push(arr[i]);
-      arr[i] = -1;
-    } else {
-      let stackLength = stack.length - 1;
-      for (let j = stackLength; j >= 0; j--) {
-        if (stack[j] > arr[i]) {
-          let temp = arr[i];
-          arr[i] = stack[j];
-          stack.push(temp);
-          break;
-        } else {
-          stack.pop();
-          if (stack.length == 0) {
-            stack.push(arr[i]);
-            arr[i] = -1;
-          }
-        }
-      }
+    while (stack.length > 0 && stack[stack.length - 1] <= arr[i]) {
+      stack.pop();
     }
+    if (stack.length > 0) {
+      res[i] = stack[stack.length - 1];
+    }
+    stack.push(arr[i]);
   }
-  return arr;
+  return res;
 }
 console.log(nextGreaterElement([6, 8, 0, 1, 3]));
