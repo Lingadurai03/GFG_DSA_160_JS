@@ -123,9 +123,10 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Stack**
 
-| Date       | Problems Solved                                                        |
-| ---------- | ---------------------------------------------------------------------- |
-| 2025-03-13 | - [Paranthesis Checker](./stack/parenthesisChecker.js)                 |
-| 2025-03-13 | - [Find Longest Valid Parantheses](./stack/longestValidParentheses.js) |
-| 2025-03-14 | - [Next Greater Element](./stack/nextGreaterElement.js)                |
-| 2025-03-14 | - [Stack span Problem](./stack/stockSpanProblem.js)                    |
+| Date       | Problems Solved                                                            |
+| ---------- | -------------------------------------------------------------------------- |
+| 2025-03-13 | - [Paranthesis Checker](./stack/parenthesisChecker.js)                     |
+| 2025-03-13 | - [Find Longest Valid Parantheses](./stack/longestValidParentheses.js)     |
+| 2025-03-14 | - [Next Greater Element](./stack/nextGreaterElement.js)                    |
+| 2025-03-14 | - [Stack span Problem](./stack/stockSpanProblem.js)                        |
+| 2025-03-14 | - [Histogram Max Rectangular Area](./stack/histogramMaxRectangularArea.js) |
