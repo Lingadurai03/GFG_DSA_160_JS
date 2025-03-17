@@ -134,3 +134,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-15 | - [Get Min From Stack](./stack/getMinFromStack.js)                             |
 | 2025-03-16 | - [Evaluation of Postfix Expression](./stack/evaluationOfPostfixExpression.js) |
 | 2025-03-17 | - [Decode The String](./stack/decodeTheString.js)                              |
+| 2025-03-17 | - [Get Max From Stack](./stack/bonusProblems/getMax.js)                        |
