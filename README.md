@@ -132,4 +132,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-14 | - [Histogram Max Rectangular Area](./stack/histogramMaxRectangularArea.js)     |
 | 2025-03-15 | - [Find Maximum Of Minimum](./stack/maximumOfMinimum.js)                       |
 | 2025-03-15 | - [Get Min From Stack](./stack/getMinFromStack.js)                             |
-| 2025-03-15 | - [Evaluation of Postfix Expression](./stack/evaluationOfPostfixExpression.js) |
+| 2025-03-16 | - [Evaluation of Postfix Expression](./stack/evaluationOfPostfixExpression.js) |
+| 2025-03-17 | - [Decode The String](./stack/decodeTheString.js)                              |
