@@ -123,16 +123,17 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Stack**
 
-| Date       | Problems Solved                                                                |
-| ---------- | ------------------------------------------------------------------------------ |
-| 2025-03-13 | - [Paranthesis Checker](./stack/parenthesisChecker.js)                         |
-| 2025-03-13 | - [Find Longest Valid Parantheses](./stack/longestValidParentheses.js)         |
-| 2025-03-14 | - [Next Greater Element](./stack/nextGreaterElement.js)                        |
-| 2025-03-14 | - [Stack span Problem](./stack/stockSpanProblem.js)                            |
-| 2025-03-14 | - [Histogram Max Rectangular Area](./stack/histogramMaxRectangularArea.js)     |
-| 2025-03-15 | - [Find Maximum Of Minimum](./stack/maximumOfMinimum.js)                       |
-| 2025-03-15 | - [Get Min From Stack](./stack/getMinFromStack.js)                             |
-| 2025-03-16 | - [Evaluation of Postfix Expression](./stack/evaluationOfPostfixExpression.js) |
-| 2025-03-17 | - [Decode The String](./stack/decodeTheString.js)                              |
-| 2025-03-17 | - [Get Max From Stack](./stack/bonusProblems/getMax.js)                        |
-| 2025-03-18 | - [The Celebrity Problem](./stack/bonusProblems/theCelebrityProblem.js)        |
+| Date       | Problems Solved                                                                                        |
+| ---------- | ------------------------------------------------------------------------------------------------------ |
+| 2025-03-13 | - [Paranthesis Checker](./stack/parenthesisChecker.js)                                                 |
+| 2025-03-13 | - [Find Longest Valid Parantheses](./stack/longestValidParentheses.js)                                 |
+| 2025-03-14 | - [Next Greater Element](./stack/nextGreaterElement.js)                                                |
+| 2025-03-14 | - [Stack span Problem](./stack/stockSpanProblem.js)                                                    |
+| 2025-03-14 | - [Histogram Max Rectangular Area](./stack/histogramMaxRectangularArea.js)                             |
+| 2025-03-15 | - [Find Maximum Of Minimum](./stack/maximumOfMinimum.js)                                               |
+| 2025-03-15 | - [Get Min From Stack](./stack/getMinFromStack.js)                                                     |
+| 2025-03-16 | - [Evaluation of Postfix Expression](./stack/evaluationOfPostfixExpression.js)                         |
+| 2025-03-17 | - [Decode The String](./stack/decodeTheString.js)                                                      |
+| 2025-03-17 | - [Get Max From Stack](./stack/bonusProblems/getMax.js)                                                |
+| 2025-03-18 | - [The Celebrity Problem](./stack/bonusProblems/theCelebrityProblem.js)                                |
+| 2025-03-18 | - [Next Greater Element In Circular Array](./stack/bonusProblems/nextGreaterElementInCircularArray.js) |
