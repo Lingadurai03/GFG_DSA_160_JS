@@ -137,3 +137,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-17 | - [Get Max From Stack](./stack/bonusProblems/getMax.js)                                                |
 | 2025-03-18 | - [The Celebrity Problem](./stack/bonusProblems/theCelebrityProblem.js)                                |
 | 2025-03-18 | - [Next Greater Element In Circular Array](./stack/bonusProblems/nextGreaterElementInCircularArray.js) |
+| 2025-03-18 | - [Sum Of Max Of Sub Arrays](./stack/bonusProblems/sumOfMaxOfSubarrays.js)                             |
