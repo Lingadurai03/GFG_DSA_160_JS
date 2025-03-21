@@ -146,6 +146,7 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-19 | - [k Sized Subarray Maximum](./Queue/kSizedSubarrayMaximum.js)                                             |
 | 2025-03-19 | - [Longest Bounded Difference Subarray](./Queue/longestBounded-DifferenceSubarray.js)                      |
 | 2025-03-20 | - [Minimum Number of K Consecutive Bit Flips](./Queue/bonusProblem/minimumNumberOfKConsecutiveBitFlips.js) |
+| 2025-03-21 | - [Maximum Score From At Most K Jumps](./Queue/bonusProblem/maximumScoreFromAtMostKJumps.js)               |
 
 ## **LeetCode problems**
 
