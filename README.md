@@ -148,6 +148,12 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-20 | - [Minimum Number of K Consecutive Bit Flips](./Queue/bonusProblem/minimumNumberOfKConsecutiveBitFlips.js) |
 | 2025-03-21 | - [Maximum Score From At Most K Jumps](./Queue/bonusProblem/maximumScoreFromAtMostKJumps.js)               |
 
+## **Prefix Sum**
+
+| Date       | Problems Solved                                        |
+| ---------- | ------------------------------------------------------ |
+| 2025-03-21 | - [Equilibrium Point](./PrefixSum/equilibriumPoint.js) |
+
 ## **LeetCode problems**
 
 | Date       | Problems Solved                                                                                           |
