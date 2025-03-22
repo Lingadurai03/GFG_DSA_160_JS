@@ -150,9 +150,10 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## **Prefix Sum**
 
-| Date       | Problems Solved                                        |
-| ---------- | ------------------------------------------------------ |
-| 2025-03-21 | - [Equilibrium Point](./PrefixSum/equilibriumPoint.js) |
+| Date       | Problems Solved                                                         |
+| ---------- | ----------------------------------------------------------------------- |
+| 2025-03-21 | - [Equilibrium Point](./PrefixSum/equilibriumPoint.js)                  |
+| 2025-03-22 | - [Longest Subarray with Sum K](./PrefixSum/longestSubarrayWithSumK.js) |
 
 ## **LeetCode problems**
 
