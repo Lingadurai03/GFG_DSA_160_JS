@@ -158,6 +158,7 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-23 | - [Product Array Puzzle](./PrefixSum/productArrayPuzzle.js)                                                             |
 | 2025-03-24 | - [Number of times graph cuts X-axis](./PrefixSum/bonusProblems/numberOfTimesGraphSutsX-axis.js)                        |
 | 2025-03-24 | - [Longest Subarray with Majority Greater than K](./PrefixSum/bonusProblems/longestSubarrayWithMajorityGreaterThanK.js) |
+| 2025-03-24 | - [Largest rectangular sub-matrix whose sum is 0](./PrefixSum/bonusProblems/largestRectangularSub-matrixWhoseSumIs0.js) |
 
 ## **LeetCode problems**
 
