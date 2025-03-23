@@ -155,6 +155,7 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-21 | - [Equilibrium Point](./PrefixSum/equilibriumPoint.js)                         |
 | 2025-03-22 | - [Longest Subarray with Sum K](./PrefixSum/longestSubarrayWithSumK.js)        |
 | 2025-03-22 | - [Largest subarray of 0's and 1's](./PrefixSum/largestSubarrayOf0'sAnd1's.js) |
+| 2025-03-23 | - [Product Array Puzzle](./PrefixSum/productArrayPuzzle.js)                    |
 
 ## **LeetCode problems**
 
