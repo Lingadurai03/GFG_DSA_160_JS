@@ -1,12 +1,12 @@
-# GFG 160 Days DSA in JavaScript
+# 🚀 GFG 160 Days DSA in JavaScript 🚀
 
 This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge in JavaScript. It covers essential data structures and algorithms, organized by topics.
 
 ---
 
-## **Array**
+## 🔢 **Array**
 
-| Date       | Problems Solved                                                                                           |
+| 📅 Date    | 🧩 Problems                                                                                               |
 | ---------- | --------------------------------------------------------------------------------------------------------- |
 | 2025-01-09 | - [Second Largest Number](./Arrays/secondlargestNumber.js)                                                |
 | 2025-01-09 | - [Move all zeros to end](./Arrays/moveAllZerosToEnd.js)                                                  |
@@ -26,9 +26,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-21 | - [Maximize Number Of 1s](./Arrays/BonusProblems/maximizeNumberOf1s.js)                                   |
 | 2025-01-21 | - [All Ants Fall Out of a Plank](./Arrays/BonusProblems/lastMomentBeforeAllAntsFallOutOfaPlank.js)        |
 
-## **String**
+## 🔡 **String**
 
-| Date       | Problems Solved                                                                              |
+| 📅 Date    | 🧩 Problems                                                                                  |
 | ---------- | -------------------------------------------------------------------------------------------- |
 | 2025-01-21 | - [Implement Atoi](./String/implementAtoi.js)                                                |
 | 2025-01-22 | - [Add Binary Strings](./String/addBinaryStrings.js)                                         |
@@ -44,9 +44,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-01-23 | - [Longest Prefix And Suffix](./String/BonusProblems/longestPrefixSuffix.js)                 |
 | 2025-01-24 | - [Integer To Words](./String/BonusProblems/integerToWords.js)                               |
 
-## **Sorting**
+## ⬆️ **Sorting**
 
-| Date       | Problems Solved                                                                  |
+| 📅 Date    | 🧩 Problems                                                                      |
 | ---------- | -------------------------------------------------------------------------------- |
 | 2025-01-24 | - [Sort 0s 1s And 2s](./Sorting/Sort0s1sAnd2s.js)                                |
 | 2025-01-26 | - [Find H Index](./Sorting/findH-Index.js)                                       |
@@ -60,9 +60,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-12 | - [Form Largest Number](./Sorting/BonusProblems/FormLargetstNumber.js)           |
 | 2025-02-12 | - [Make Array Element Unique](./Sorting/BonusProblems/makeArrayElementUnique.js) |
 
-## **Searching**
+## 🔍 **Searching**
 
-| Date       | Problems Solved                                                                        |
+| 📅 Date    | 🧩 Problems                                                                            |
 | ---------- | -------------------------------------------------------------------------------------- |
 | 2025-02-13 | - [Number Of Occurrence](./Searching/numberOfOccurrence.js)                            |
 | 2025-02-13 | - [Sorted And Rotated Minimum](./Searching/sortedAndRotatedMinimum.js)                 |
@@ -79,9 +79,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-15 | - [Koko Eating Bananas](./Searching/bonusProblem/kokoEatingBananas.js)                 |
 | 2025-02-15 | - [Minimum Days To Make Bouquets](./Searching/bonusProblem/minimumDaysMakeBouquets.js) |
 
-## **Hashing**
+## 🔑 **Hashing**
 
-| Date       | Problems Solved                                                                                   |
+| 📅 Date    | 🧩 Problems                                                                                       |
 | ---------- | ------------------------------------------------------------------------------------------------- |
 | 2025-02-16 | - [Two sum](./Hashing/twoSum.js)                                                                  |
 | 2025-02-16 | - [Count Pairs With Given Sum](./Hashing/countPairsWithGivenSum.js)                               |
@@ -99,9 +99,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-02-26 | - [Min Subsets with Consecutive Numbers](./Hashing/bonusQuestions/MinSubsets.js)                  |
 | 2025-02-26 | - [Group Shifted String](./Hashing/bonusQuestions/groupShiftedString.js)                          |
 
-## **Two Pointers**
+## 👈👉 **Two Pointers**
 
-| Date       | Problems Solved                                                                                          |
+| 📅 Date    | 🧩 Problems                                                                                              |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
 | 2025-02-27 | - [Count All Triplets](./TwoPointers/countAllTriplets.js)                                                |
 | 2025-02-27 | - [Count Pairs](./TwoPointers/CountPairs.js)                                                             |
@@ -121,9 +121,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-12 | - [Minimum Removals For Target Sum](./TwoPointers/bonusProblem/minimumRemovalsForTargetSum.js)           |
 | 2025-03-13 | - [Find pairs in sorted and rotated array](./TwoPointers/bonusProblem/pairSumInSortedAndRotatedArray.js) |
 
-## **Stack**
+## 📦 **Stack**
 
-| Date       | Problems Solved                                                                                        |
+| 📅 Date    | 🧩 Problems                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------------ |
 | 2025-03-13 | - [Paranthesis Checker](./stack/parenthesisChecker.js)                                                 |
 | 2025-03-13 | - [Find Longest Valid Parantheses](./stack/longestValidParentheses.js)                                 |
@@ -139,18 +139,18 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-18 | - [Next Greater Element In Circular Array](./stack/bonusProblems/nextGreaterElementInCircularArray.js) |
 | 2025-03-18 | - [Sum Of Max Of Sub Arrays](./stack/bonusProblems/sumOfMaxOfSubarrays.js)                             |
 
-## **Queue**
+## ⏱️ **Queue**
 
-| Date       | Problems Solved                                                                                            |
+| 📅 Date    | 🧩 Problems                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | 2025-03-19 | - [k Sized Subarray Maximum](./Queue/kSizedSubarrayMaximum.js)                                             |
 | 2025-03-19 | - [Longest Bounded Difference Subarray](./Queue/longestBounded-DifferenceSubarray.js)                      |
 | 2025-03-20 | - [Minimum Number of K Consecutive Bit Flips](./Queue/bonusProblem/minimumNumberOfKConsecutiveBitFlips.js) |
 | 2025-03-21 | - [Maximum Score From At Most K Jumps](./Queue/bonusProblem/maximumScoreFromAtMostKJumps.js)               |
 
-## **Prefix Sum**
+## ➕ **Prefix Sum**
 
-| Date       | Problems Solved                                                                                                         |
+| 📅 Date    | 🧩 Problems                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 2025-03-21 | - [Equilibrium Point](./PrefixSum/equilibriumPoint.js)                                                                  |
 | 2025-03-22 | - [Longest Subarray with Sum K](./PrefixSum/longestSubarrayWithSumK.js)                                                 |
@@ -162,10 +162,12 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-24 | - [Subarray Sum Divisible By K](./PrefixSum/bonusProblems/subarraySumDivisibleByK.js)                                   |
 | 2025-03-24 | - [Longest subarray with sum divisible by K](./PrefixSum/bonusProblems/longestSubarrayWithSumDivisibleByK.js)           |
 
-## **LeetCode problems**
+## 💻 **LeetCode Problems**
 
-| Date       | Problems Solved                                                                                           |
-| ---------- | --------------------------------------------------------------------------------------------------------- |
-| 2025-03-21 | - [Minimum Operation Binary Array 0 To 1](./lettcode/minimumOpsBinaryArray0To1.js)                        |
-| 2025-03-21 | - [Minimum Operations to Make Binary Array Elements Equal to 1 II](./lettcode/minOpsBinaryArrayTo1.js.js) |
-| 2025-03-26 | - [39. Combination Sum](./lettcode/recursion/0039-combinationSum.js)                                      |
+| 📅 Date                | 🧩 Problems                                                                                               |
+| ---------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2025-03-21             | - [Minimum Operation Binary Array 0 To 1](./lettcode/minimumOpsBinaryArray0To1.js)                        |
+| 2025-03-21             | - [Minimum Operations to Make Binary Array Elements Equal to 1 II](./lettcode/minOpsBinaryArrayTo1.js.js) |
+| **Recursion Problems** |                                                                                                           |
+| 2025-03-26             | - [39. Combination Sum](./lettcode/recursion/0039-combinationSum.js)                                      |
+| 2025-03-26             | - [40. Combination Sum II](./lettcode/recursion/0040-CombinationSumII.js)                                 |
