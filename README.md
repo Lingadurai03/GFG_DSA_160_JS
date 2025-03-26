@@ -168,3 +168,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | ---------- | --------------------------------------------------------------------------------------------------------- |
 | 2025-03-21 | - [Minimum Operation Binary Array 0 To 1](./lettcode/minimumOpsBinaryArray0To1.js)                        |
 | 2025-03-21 | - [Minimum Operations to Make Binary Array Elements Equal to 1 II](./lettcode/minOpsBinaryArrayTo1.js.js) |
+| 2025-03-26 | - [39. Combination Sum](./lettcode/recursion/0039-combinationSum.js)                                      |
