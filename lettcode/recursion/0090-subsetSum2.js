@@ -24,16 +24,16 @@
 function findSubset(arr) {
   let res = [];
 
-  function recursion(idx, sub) {
+  function backTracking(idx, sub) {
     res.push([...sub]);
     for (let i = idx; i < arr.length; i++) {
       if (i > idx && arr[i] == arr[i - 1]) continue;
       sub.push(arr[i]);
-      recursion(i + 1, sub);
+      backTracking(i + 1, sub);
       sub.pop();
     }
   }
-  recursion(0, []);
+  backTracking(0, []);
   return res;
 }
 

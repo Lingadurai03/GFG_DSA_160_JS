@@ -200,5 +200,6 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-21             | - [Minimum Operations to Make Binary Array Elements Equal to 1 II](./lettcode/minOpsBinaryArrayTo1.js.js) |
 | **Recursion Problems** |                                                                                                           |
 | 2025-03-26             | - [39. Combination Sum](./lettcode/recursion/0039-combinationSum.js)                                      |
-| 2025-03-26             | - [40. Combination Sum II](./lettcode/recursion/0040-CombinationSumII.js)                                 |
+| 2025-03-26             | - [40. Combination Sum II](./lettcode/recursion/0040-combinationSumII.js)                                 |
 | 2025-03-26             | - [90. Subset Sum II](./lettcode/recursion/0090-subsetSum2.js)                                            |
+| 2025-03-27             | - [46. Permutations](./lettcode/recursion/0046.permutations.js)                                           |

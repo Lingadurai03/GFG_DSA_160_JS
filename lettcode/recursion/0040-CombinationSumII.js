@@ -37,7 +37,7 @@ function findCombination(arr, k) {
   let res = [];
   arr.sort((a, b) => a - b);
 
-  function recursion(idx, target, ds) {
+  function backTracking(idx, target, ds) {
     if (target == 0) {
       res.push([...ds]);
       return;
@@ -47,11 +47,11 @@ function findCombination(arr, k) {
       if (arr[i] > target) break;
 
       ds.push(arr[i]);
-      recursion(i + 1, target - arr[i], ds);
+      backTracking(i + 1, target - arr[i], ds);
       ds.pop();
     }
   }
-  recursion(0, k, []);
+  backTracking(0, k, []);
   return res;
 }
 
