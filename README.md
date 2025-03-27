@@ -186,10 +186,11 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## ➕ **Recursion Problems**
 
-| 📅 Date    | 🧩 Problems                              |
-| ---------- | ---------------------------------------- |
-| 2025-03-26 | - [Basic](./Recursion/basic.js)          |
-| 2025-03-26 | - [Subset Sum](./Recursion/subSetSum.js) |
+| 📅 Date    | 🧩 Problems                                  |
+| ---------- | -------------------------------------------- |
+| 2025-03-26 | - [Basic](./Recursion/basic.js)              |
+| 2025-03-26 | - [Subset Sum](./Recursion/subSetSum.js)     |
+| 2025-03-26 | - [Subset Sum II](./Recursion/subSetSum2.js) |
 
 ## 💻 **LeetCode Problems**
 
@@ -200,3 +201,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | **Recursion Problems** |                                                                                                           |
 | 2025-03-26             | - [39. Combination Sum](./lettcode/recursion/0039-combinationSum.js)                                      |
 | 2025-03-26             | - [40. Combination Sum II](./lettcode/recursion/0040-CombinationSumII.js)                                 |
+| 2025-03-26             | - [90. Subset Sum II](./lettcode/recursion/0090-subsetSum2.js)                                            |
