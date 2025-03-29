@@ -198,3 +198,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 📅 Date    | 🧩 Problems                                      |
 | ---------- | ------------------------------------------------ |
 | 2025-03-29 | - [Set Matrix Zeros](./matrix/setMatrixZeros.js) |
+| 2025-03-29 | - [Print Spiral Matrix](./matrix/printSpiral.js) |
