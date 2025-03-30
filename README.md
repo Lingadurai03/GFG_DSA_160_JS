@@ -195,8 +195,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## 🔑 **Matrix**
 
-| 📅 Date    | 🧩 Problems                                                         |
-| ---------- | ------------------------------------------------------------------- |
-| 2025-03-29 | - [Set Matrix Zeros](./matrix/setMatrixZeros.js)                    |
-| 2025-03-29 | - [Print Spiral Matrix](./matrix/printSpiral.js)                    |
-| 2025-03-29 | - [Rotate by 90deg (Anti clock-wise)](./matrix/rotateBy90Degree.js) |
+| 📅 Date    | 🧩 Problems                                                                        |
+| ---------- | ---------------------------------------------------------------------------------- |
+| 2025-03-29 | - [Set Matrix Zeros](./matrix/setMatrixZeros.js)                                   |
+| 2025-03-29 | - [Print Spiral Matrix](./matrix/printSpiral.js)                                   |
+| 2025-03-29 | - [Rotate by 90deg (Anti clock-wise)](./matrix/rotateBy90Degree.js)                |
+| 2025-03-30 | - [Search in a Row-Column sorted matrix](./matrix/searchRow-ColumnSortedMatrix.js) |
