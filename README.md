@@ -202,3 +202,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-29 | - [Rotate by 90deg (Anti clock-wise)](./matrix/rotateBy90Degree.js)                |
 | 2025-03-30 | - [Search in a Row-Column sorted matrix](./matrix/searchRow-ColumnSortedMatrix.js) |
 | 2025-03-30 | - [Search in a row-wise sorted matrix](./matrix/searchRow-wiseSortedMatrix.js)     |
+| 2025-03-31 | - [ Search in a sorted Matrix](./matrix/searchSortedMatrix.js)                     |
