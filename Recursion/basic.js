@@ -135,7 +135,6 @@ const subsets = function (nums) {
   let res = [];
   function backTrack(i, subset) {
     if (i === nums.length) {
-      console.log('subset', [...subset]);
       res.push([...subset]);
       return;
     }
@@ -149,4 +148,4 @@ const subsets = function (nums) {
   return res;
 };
 
-console.log(subsets([1, 2, 3]));
+console.log(subsets([1, 2, 2]));

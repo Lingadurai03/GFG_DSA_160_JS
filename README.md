@@ -192,6 +192,7 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-03-26 | - [Subset Sum](./Recursion/subSetSum.js)                           |
 | 2025-03-26 | - [Subset Sum II](./Recursion/subSetSum2.js)                       |
 | 2025-03-28 | - [Permutations Of A String](./Recursion/permutationsOfAString.js) |
+| 2025-03-31 | - [N - Queen](./Recursion/N-QueenProblem.js)                       |
 
 ## 🔑 **Matrix**
 
