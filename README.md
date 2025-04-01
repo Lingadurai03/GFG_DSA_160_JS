@@ -186,15 +186,16 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## ➕ **Recursion Problems**
 
-| 📅 Date    | 🧩 Problems                                                        |
-| ---------- | ------------------------------------------------------------------ |
-| 2025-03-26 | - [Basic](./Recursion/basic.js)                                    |
-| 2025-03-26 | - [Subset Sum](./Recursion/subSetSum.js)                           |
-| 2025-03-26 | - [Subset Sum II](./Recursion/subSetSum2.js)                       |
-| 2025-03-28 | - [Permutations Of A String](./Recursion/permutationsOfAString.js) |
-| 2025-03-31 | - [N - Queen](./Recursion/N-QueenProblem.js)                       |
-| 2025-04-01 | - [Sudoku](./Recursion/sudoku.js)                                  |
-| 2025-04-01 | - [Word Search](./Recursion/wordSearch.js)                         |
+| 📅 Date    | 🧩 Problems                                                                                     |
+| ---------- | ----------------------------------------------------------------------------------------------- |
+| 2025-03-26 | - [Basic](./Recursion/basic.js)                                                                 |
+| 2025-03-26 | - [Subset Sum](./Recursion/subSetSum.js)                                                        |
+| 2025-03-26 | - [Subset Sum II](./Recursion/subSetSum2.js)                                                    |
+| 2025-03-28 | - [Permutations Of A String](./Recursion/permutationsOfAString.js)                              |
+| 2025-03-31 | - [N - Queen](./Recursion/N-QueenProblem.js)                                                    |
+| 2025-04-01 | - [Sudoku](./Recursion/sudoku.js)                                                               |
+| 2025-04-01 | - [Word Search](./Recursion/wordSearch.js)                                                      |
+| 2025-04-01 | - [Possible Words From Phone Digits](./Recursion/bonusProblems/possibleWordsFromPhoneDigits.js) |
 
 ## 🔑 **Matrix**
 
