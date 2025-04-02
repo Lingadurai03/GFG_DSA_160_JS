@@ -196,6 +196,7 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-01 | - [Sudoku](./Recursion/sudoku.js)                                                               |
 | 2025-04-01 | - [Word Search](./Recursion/wordSearch.js)                                                      |
 | 2025-04-01 | - [Possible Words From Phone Digits](./Recursion/bonusProblems/possibleWordsFromPhoneDigits.js) |
+| 2025-04-02 | - [Generate IP Addresses](./Recursion/bonusProblems/generateIpAddress.js)                       |
 
 ## 🔑 **Matrix**
 
