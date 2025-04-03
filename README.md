@@ -198,6 +198,7 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-01 | - [Possible Words From Phone Digits](./Recursion/bonusProblems/possibleWordsFromPhoneDigits.js) |
 | 2025-04-02 | - [Generate IP Addresses](./Recursion/bonusProblems/generateIpAddress.js)                       |
 | 2025-04-03 | - [Combination Sum I](./Recursion/bonusProblems/combinationSum.js)                              |
+| 2025-04-03 | - [Combination Sum II](./Recursion/bonusProblems/combinationSumII.js)                           |
 
 ## 🔑 **Matrix**
 
