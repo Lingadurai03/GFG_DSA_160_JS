@@ -8,5 +8,13 @@
   "editor.parameterHints": false,
   "editor.autoIndent": "advanced",
   "editor.autoSurround": "never",
-  "editor.snippetSuggestions": "none"
+  "editor.snippetSuggestions": "none",
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "\\.js$",
+        "cmd": "node ${file} < input.txt > output.txt"
+      }
+    ]
+  }
 }
