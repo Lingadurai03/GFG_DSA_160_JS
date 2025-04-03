@@ -107,6 +107,17 @@ function removeK(head, k) {
   }
   return head;
 }
+function printNode(head) {
+  let temp = head;
+  let output = '';
+
+  while (temp) {
+    output += temp.data + ' -> ';
+    temp = temp.next;
+  }
+
+  console.log(output.slice(0, -3));
+}
 
 // console.log(head);
 // console.log(removeK(head, 2));
@@ -141,4 +152,4 @@ function insertHead(head, val) {
 
 // console.log(insertHead(head, 0));
 
-module.exports = { Node, head };
+module.exports = { Node, head, printNode };

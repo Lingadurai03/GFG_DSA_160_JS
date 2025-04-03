@@ -215,4 +215,6 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 | 📅 Date    | 🧩 Problems                                                   |
 | ---------- | ------------------------------------------------------------- |
+| 2025-04-03 | - [Basic](./LinkedList/basic.js)                              |
 | 2025-04-03 | - [Reverse a linked list](./LinkedList/reverseALinkedList.js) |
+| 2025-04-03 | - [Rotate a Linked List](./LinkedList/rotateALinkedList.js)   |
