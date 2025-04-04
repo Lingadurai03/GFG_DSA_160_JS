@@ -13,16 +13,27 @@ class Node {
 
 // convert arr to LL Using functions
 
-function createLinkedList(arr) {
+function createLinkedList(arr, pos = -1) {
   if (arr.length === 0) return null;
 
   let head = new Node(arr[0]);
   let current = head;
+  let loopStartNode = null;
 
   for (let i = 1; i < arr.length; i++) {
     current.next = new Node(arr[i]);
     current = current.next;
+
+    if (i === pos) loopStartNode = current;
   }
+
+  if (pos === 0) loopStartNode = head;
+
+  // create the loop
+  if (pos >= 0) {
+    current.next = loopStartNode;
+  }
+
   return head;
 }
 // const head = createLinkedList([1, 2, 3, 4]);
@@ -105,14 +116,20 @@ function removeK(head, k) {
 }
 function printNode(head) {
   let temp = head;
-  let output = '';
+  const visited = new Set();
+  const result = [];
 
   while (temp) {
-    output += temp.data + ' -> ';
+    if (visited.has(temp)) {
+      result.push(`↩️ (cycle to ${temp.data})`);
+      break;
+    }
+    result.push(temp.data);
+    visited.add(temp);
     temp = temp.next;
   }
 
-  console.log(output.slice(0, -3));
+  console.log(result.join(' -> '));
 }
 
 // console.log(head);
