@@ -1,7 +1,3 @@
-const fs = require('fs');
-
-const input = fs.readFileSync('input.txt', 'utf-8').trim(); // Read the file
-
 class Node {
   constructor(data, next = null) {
     this.data = data;
@@ -63,7 +59,7 @@ function find(head, el) {
 // Deletion
 // Delete head
 
-const head = createLinkedList(input);
+const head = createLinkedList([1, 2, 3, 4, 5]);
 function deleteHead(head) {
   head = head.next;
   return head;
