@@ -152,4 +152,4 @@ function insertHead(head, val) {
 
 // console.log(insertHead(head, 0));
 
-module.exports = { Node, head, printNode };
+module.exports = { Node, head, createLinkedList, printNode };

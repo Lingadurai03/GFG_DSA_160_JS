@@ -13,7 +13,7 @@
     "commands": [
       {
         "match": "\\.js$",
-        "cmd": "node ${file} < input.txt > output.txt"
+        "cmd": "node ${file} < input.txt > output.txt 2>&1"
       }
     ]
   }
