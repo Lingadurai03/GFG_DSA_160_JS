@@ -219,3 +219,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-03 | - [Reverse a linked list](./LinkedList/reverseALinkedList.js)         |
 | 2025-04-03 | - [Rotate a Linked List](./LinkedList/rotateALinkedList.js)           |
 | 2025-04-04 | - [Linked List Group Reverse](./LinkedList/linkedListGroupReverse.js) |
+| 2025-04-04 | - [Add Number Linked Lists](./LinkedList/addNumberLinkedLists.js)     |
