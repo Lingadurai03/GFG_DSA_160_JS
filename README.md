@@ -224,3 +224,10 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-04 | - [Add Number Linked Lists](./LinkedList/addNumberLinkedLists.js)                                  |
 | 2025-04-04 | - [Find the first node of loop in linked list](./LinkedList/findTheFirstNodeOfLoopInLinkedList.js) |
 | 2025-04-04 | - [Remove Loop In Linked List](./LinkedList/removeLoopInLinkedList.js)                             |
+
+## 🔑 **Tree **
+
+| 📅 Date    | 🧩 Problems                                         |
+| ---------- | --------------------------------------------------- |
+| 2025-04-06 | - [Basic](./Trees/basic.js)                         |
+| 2025-04-06 | - [In-Order Traversal](./Trees/inorderTraversal.js) |
