@@ -234,3 +234,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-07 | - [Level-Order Traversal](./Trees/levelorderTraversal.js)  |
 | 2025-04-07 | - [Height of Binary Tree](./Trees/heightOfBinaryTree.js)   |
 | 2025-04-07 | - [Diameter of a Binary Tree](./Trees/diameterOfAnTree.js) |
+| 2025-04-07 | - [Mirror Tree](./Trees/mirrorTree.js)                     |
