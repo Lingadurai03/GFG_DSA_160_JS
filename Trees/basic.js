@@ -200,4 +200,44 @@ function postOrderTraversalOptimized(tree) {
   return ans;
 }
 
-console.log(postOrderTraversalOptimized(tree));
+// console.log(postOrderTraversalOptimized(tree));
+
+function allTraversalInOne(root) {
+  if (!root) return null;
+  let preOrder = [];
+  let inOrder = [];
+  let postOrder = [];
+
+  let st = [[root, 1]];
+
+  while (st.length) {
+    let it = st[st.length - 1];
+    let num = it[1];
+    if (num == 1) {
+      preOrder.push(it[0].data);
+      it[1] += 1;
+      if (it[0].left) st.push([it[0].left, 1]);
+    } else if (num == 2) {
+      inOrder.push(it[0].data);
+      it[1] += 1;
+      if (it[0].right) st.push([it[0].right, 1]);
+    } else {
+      let el = st.pop()[0];
+      postOrder.push(el.data);
+    }
+  }
+
+  return { preOrder, inOrder, postOrder };
+}
+// console.log(allTraversalInOne(tree));
+
+// Max Depth of binary Tree
+
+const findDepthOfAnTree = (root) => {
+  if (!root) return 0;
+  return (
+    1 + Math.max(findDepthOfAnTree(root.left), findDepthOfAnTree(root.right))
+  );
+};
+
+console.log(findDepthOfAnTree(tree));

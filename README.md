@@ -227,7 +227,8 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## 🔑 **Tree **
 
-| 📅 Date    | 🧩 Problems                                         |
-| ---------- | --------------------------------------------------- |
-| 2025-04-06 | - [Basic](./Trees/basic.js)                         |
-| 2025-04-06 | - [In-Order Traversal](./Trees/inorderTraversal.js) |
+| 📅 Date    | 🧩 Problems                                               |
+| ---------- | --------------------------------------------------------- |
+| 2025-04-06 | - [Basic](./Trees/basic.js)                               |
+| 2025-04-06 | - [In-Order Traversal](./Trees/inorderTraversal.js)       |
+| 2025-04-07 | - [Level-Order Traversal](./Trees/levelorderTraversal.js) |
