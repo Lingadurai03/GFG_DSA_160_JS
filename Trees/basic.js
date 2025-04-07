@@ -1,6 +1,6 @@
 // Create Tree
 
-class NodeList {
+class Node {
   constructor(data, left = null, right = null) {
     this.left = left;
     this.data = data;
@@ -8,12 +8,12 @@ class NodeList {
   }
 }
 /**
-const root = new NodeList(5);
-root.left = new NodeList(6);
-root.left.left = new NodeList(8);
-root.left.right = new NodeList(9);
-root.left.right.right = new NodeList(1);
-root.right = new NodeList(7);
+const root = new Node(5);
+root.left = new Node(6);
+root.left.left = new Node(8);
+root.left.right = new Node(9);
+root.left.right.right = new Node(1);
+root.right = new Node(7);
 
 console.log(root);
  */
@@ -23,7 +23,7 @@ console.log(root);
 function createTree(obj) {
   if (!obj) return null;
 
-  return new NodeList(obj.data, createTree(obj.left), createTree(obj.right));
+  return new Node(obj.data, createTree(obj.left), createTree(obj.right));
 }
 
 const treeStructure = {
@@ -37,6 +37,14 @@ const treeStructure = {
     },
   },
   right: { data: 7 },
+};
+
+export const createTreeFromArray = (arr, i = 0) => {
+  if (i >= arr.length || arr[i] == null) return null;
+  const root = new Node(arr[i]);
+  root.left = createTreeFromArray(arr, 2 * i + 1);
+  root.right = createTreeFromArray(arr, 2 * i + 2);
+  return root;
 };
 
 const tree = createTree(treeStructure);
@@ -240,4 +248,8 @@ const findDepthOfAnTree = (root) => {
   );
 };
 
-console.log(findDepthOfAnTree(tree));
+// console.log(findDepthOfAnTree(tree));
+
+// module.export = {
+//   createTreeFromArray,
+// };
