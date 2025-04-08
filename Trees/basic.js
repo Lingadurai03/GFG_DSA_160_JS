@@ -39,11 +39,31 @@ const treeStructure = {
   right: { data: 7 },
 };
 
-export const createTreeFromArray = (arr, i = 0) => {
-  if (i >= arr.length || arr[i] == null) return null;
-  const root = new Node(arr[i]);
-  root.left = createTreeFromArray(arr, 2 * i + 1);
-  root.right = createTreeFromArray(arr, 2 * i + 2);
+export const createTreeFromArray = (arr) => {
+  if (!arr.length || arr[0] === 'N') return null;
+
+  const root = new Node(arr[0]);
+  const queue = [root];
+  let i = 1;
+
+  while (queue.length && i < arr.length) {
+    const curr = queue.shift();
+
+    // Left child
+    if (arr[i] !== 'N' && arr[i] != null) {
+      curr.left = new Node(arr[i]);
+      queue.push(curr.left);
+    }
+    i++;
+
+    // Right child
+    if (i < arr.length && arr[i] !== 'N' && arr[i] != null) {
+      curr.right = new Node(arr[i]);
+      queue.push(curr.right);
+    }
+    i++;
+  }
+
   return root;
 };
 
