@@ -227,11 +227,12 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## 🔑 **Tree **
 
-| 📅 Date    | 🧩 Problems                                                |
-| ---------- | ---------------------------------------------------------- |
-| 2025-04-06 | - [Basic](./Trees/basic.js)                                |
-| 2025-04-06 | - [In-Order Traversal](./Trees/inorderTraversal.js)        |
-| 2025-04-07 | - [Level-Order Traversal](./Trees/levelorderTraversal.js)  |
-| 2025-04-07 | - [Height of Binary Tree](./Trees/heightOfBinaryTree.js)   |
-| 2025-04-07 | - [Diameter of a Binary Tree](./Trees/diameterOfAnTree.js) |
-| 2025-04-07 | - [Mirror Tree](./Trees/mirrorTree.js)                     |
+| 📅 Date    | 🧩 Problems                                                                             |
+| ---------- | --------------------------------------------------------------------------------------- |
+| 2025-04-06 | - [Basic](./Trees/basic.js)                                                             |
+| 2025-04-06 | - [In-Order Traversal](./Trees/inorderTraversal.js)                                     |
+| 2025-04-07 | - [Level-Order Traversal](./Trees/levelorderTraversal.js)                               |
+| 2025-04-07 | - [Height of Binary Tree](./Trees/heightOfBinaryTree.js)                                |
+| 2025-04-07 | - [Diameter of a Binary Tree](./Trees/diameterOfAnTree.js)                              |
+| 2025-04-07 | - [Mirror Tree](./Trees/mirrorTree.js)                                                  |
+| 2025-04-08 | - [Construct Tree from Inorder & Preorder](./Trees/constructTreeFromInorderPreorder.js) |
