@@ -242,4 +242,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-10 | - [Check Tree is valid BST or NOT](./Trees/checkForBST.js)                              |
 | 2025-04-10 | - [Pair Sum in BST](./Trees/pairSumInBST.js)                                            |
 | 2025-04-10 | - [Fixing Two nodes of a BST](./Trees/fixingTwoNodesOfABST.js)                          |
-| 2025-04-10 | - [K-th Smallest In BST](./Trees/k-thSmallestInBST.js.js)                               |
+| 2025-04-10 | - [K-th Smallest In BST](./Trees/k-thSmallestInBST.js)                                  |
+| 2025-04-10 | - [Lowest Common Ancestor in a BST](./Trees/lowestCommonAncestorInBST.js)               |
