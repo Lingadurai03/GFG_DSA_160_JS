@@ -273,3 +273,49 @@ const findDepthOfAnTree = (root) => {
 // module.export = {
 //   createTreeFromArray,
 // };
+
+function insertIntoBST(root, val) {
+  if (!root) return new Node(val);
+  if (val < root.data) root.left = insertIntoBST(root.left, val);
+  else root.right = insertIntoBST(root.right, val);
+  return root;
+}
+
+export const createBSTFromArray = (arr) => {
+  let root = null;
+  for (let val of arr) {
+    root = insertIntoBST(root, val);
+  }
+  return root;
+};
+
+// BST Iterator
+
+class BSTIterator {
+  #stack = [];
+  constructor(root) {
+    this.#pushAll(root);
+  }
+  next = () => {
+    let top = this.#stack.pop();
+    if (top.right) {
+      this.#pushAll(top.right);
+    }
+    return top.data;
+  };
+  hasNext = () => {
+    return this.#stack.length > 0;
+  };
+  #pushAll = (node) => {
+    while (node) {
+      this.#stack.push(node);
+      node = node.left;
+    }
+  };
+}
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let root = createBSTFromArray(arr);
+
+let bi = new BSTIterator(root);
+
+while (bi.hasNext()) console.log(bi.next());
