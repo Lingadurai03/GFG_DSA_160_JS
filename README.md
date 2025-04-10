@@ -241,3 +241,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-09 | - [K Sum Paths](./Trees/KSumPaths.js)                                                   |
 | 2025-04-10 | - [Check Tree is valid BST or NOT](./Trees/checkForBST.js)                              |
 | 2025-04-10 | - [Pair Sum in BST](./Trees/pairSumInBST.js)                                            |
+| 2025-04-10 | - [Fixing Two nodes of a BST](./Trees/fixingTwoNodesOfABST.js)                          |
