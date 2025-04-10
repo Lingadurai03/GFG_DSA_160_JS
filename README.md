@@ -227,20 +227,21 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## 🔑 **Tree **
 
-| 📅 Date    | 🧩 Problems                                                                             |
-| ---------- | --------------------------------------------------------------------------------------- |
-| 2025-04-06 | - [Basic](./Trees/basic.js)                                                             |
-| 2025-04-06 | - [In-Order Traversal](./Trees/inorderTraversal.js)                                     |
-| 2025-04-07 | - [Level-Order Traversal](./Trees/levelorderTraversal.js)                               |
-| 2025-04-07 | - [Height of Binary Tree](./Trees/heightOfBinaryTree.js)                                |
-| 2025-04-07 | - [Diameter of a Binary Tree](./Trees/diameterOfAnTree.js)                              |
-| 2025-04-07 | - [Mirror Tree](./Trees/mirrorTree.js)                                                  |
-| 2025-04-08 | - [Construct Tree from Inorder & Preorder](./Trees/constructTreeFromInorderPreorder.js) |
-| 2025-04-08 | - [Tree Boundary Traversal](./Trees/treeBoundaryTraversal.js)                           |
-| 2025-04-09 | - [Maximum path sum from any node](./Trees/maximumPathSumFromAnyNode.js)                |
-| 2025-04-09 | - [K Sum Paths](./Trees/KSumPaths.js)                                                   |
-| 2025-04-10 | - [Check Tree is valid BST or NOT](./Trees/checkForBST.js)                              |
-| 2025-04-10 | - [Pair Sum in BST](./Trees/pairSumInBST.js)                                            |
-| 2025-04-10 | - [Fixing Two nodes of a BST](./Trees/fixingTwoNodesOfABST.js)                          |
-| 2025-04-10 | - [K-th Smallest In BST](./Trees/k-thSmallestInBST.js)                                  |
-| 2025-04-10 | - [Lowest Common Ancestor in a BST](./Trees/lowestCommonAncestorInBST.js)               |
+| 📅 Date    | 🧩 Problems                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| 2025-04-06 | - [Basic](./Trees/basic.js)                                                               |
+| 2025-04-06 | - [In-Order Traversal](./Trees/inorderTraversal.js)                                       |
+| 2025-04-07 | - [Level-Order Traversal](./Trees/levelorderTraversal.js)                                 |
+| 2025-04-07 | - [Height of Binary Tree](./Trees/heightOfBinaryTree.js)                                  |
+| 2025-04-07 | - [Diameter of a Binary Tree](./Trees/diameterOfAnTree.js)                                |
+| 2025-04-07 | - [Mirror Tree](./Trees/mirrorTree.js)                                                    |
+| 2025-04-08 | - [Construct Tree from Inorder & Preorder](./Trees/constructTreeFromInorderPreorder.js)   |
+| 2025-04-08 | - [Tree Boundary Traversal](./Trees/treeBoundaryTraversal.js)                             |
+| 2025-04-09 | - [Maximum path sum from any node](./Trees/maximumPathSumFromAnyNode.js)                  |
+| 2025-04-09 | - [K Sum Paths](./Trees/KSumPaths.js)                                                     |
+| 2025-04-10 | - [Check Tree is valid BST or NOT](./Trees/checkForBST.js)                                |
+| 2025-04-10 | - [Pair Sum in BST](./Trees/pairSumInBST.js)                                              |
+| 2025-04-10 | - [Fixing Two nodes of a BST](./Trees/fixingTwoNodesOfABST.js)                            |
+| 2025-04-10 | - [K-th Smallest In BST](./Trees/k-thSmallestInBST.js)                                    |
+| 2025-04-10 | - [Lowest Common Ancestor in a BST](./Trees/lowestCommonAncestorInBST.js)                 |
+| 2025-04-11 | - [Serialize and deserialize a binary tree](./Trees/serializeAndDeserializeBinaryTree.js) |
