@@ -284,7 +284,9 @@ function insertIntoBST(root, val) {
 export const createBSTFromArray = (arr) => {
   let root = null;
   for (let val of arr) {
-    root = insertIntoBST(root, val);
+    if (val !== null) {
+      root = insertIntoBST(root, val);
+    }
   }
   return root;
 };
@@ -318,4 +320,4 @@ let root = createBSTFromArray(arr);
 
 let bi = new BSTIterator(root);
 
-while (bi.hasNext()) console.log(bi.next());
+// while (bi.hasNext()) console.log(bi.next());
