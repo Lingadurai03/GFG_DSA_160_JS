@@ -245,3 +245,10 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-10 | - [K-th Smallest In BST](./Trees/k-thSmallestInBST.js)                                    |
 | 2025-04-10 | - [Lowest Common Ancestor in a BST](./Trees/lowestCommonAncestorInBST.js)                 |
 | 2025-04-11 | - [Serialize and deserialize a binary tree](./Trees/serializeAndDeserializeBinaryTree.js) |
+
+## 🔑 **Trie **
+
+| 📅 Date    | 🧩 Problems                                                     |
+| ---------- | --------------------------------------------------------------- |
+| 2025-04-11 | - [Basic](./Tries/basic.js)                                     |
+| 2025-04-11 | - [insert And Search In Trie](./Tries/insertAndSearchInTrie.js) |
