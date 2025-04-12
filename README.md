@@ -252,3 +252,9 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | ---------- | --------------------------------------------------------------- |
 | 2025-04-11 | - [Basic](./Tries/basic.js)                                     |
 | 2025-04-11 | - [insert And Search In Trie](./Tries/insertAndSearchInTrie.js) |
+
+## 🔑 **Graph **
+
+| 📅 Date    | 🧩 Problems                             |
+| ---------- | --------------------------------------- |
+| 2025-04-12 | - [BFS of Graph](./Graph/bFSofgraph.js) |
