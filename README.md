@@ -255,7 +255,8 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## 🔑 **Graph **
 
-| 📅 Date    | 🧩 Problems                             |
-| ---------- | --------------------------------------- |
-| 2025-04-12 | - [BFS of Graph](./Graph/bFSofgraph.js) |
-| 2025-04-12 | - [DFS of Graph](./Graph/dFSofGraph.js) |
+| 📅 Date    | 🧩 Problems                                  |
+| ---------- | -------------------------------------------- |
+| 2025-04-12 | - [BFS of Graph](./Graph/bFSofgraph.js)      |
+| 2025-04-12 | - [DFS of Graph](./Graph/dFSofGraph.js)      |
+| 2025-04-13 | - [Rotten Oranges](./Graph/rottenOranges.js) |
