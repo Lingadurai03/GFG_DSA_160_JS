@@ -273,3 +273,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | ---------- | ---------------------------------------------------------------- |
 | 2025-04-17 | - [Basic](./Dp/basic.js)                                         |
 | 2025-04-17 | - [Ways to Reach the n'th Stair](./Dp/waysToReachThenthStair.js) |
+| 2025-04-18 | - [Stickler Thief](./Dp/sticklerThief.js)                        |
