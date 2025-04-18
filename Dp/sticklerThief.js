@@ -30,7 +30,7 @@
 //     let pick = arr[n] + recursion(arr, n - 2, dp);
 //     let notPick = 0 + recursion(arr, n - 1, dp);
 
-//     return Math.max(pick, notPick);
+//     return (dp[n] = Math.max(pick, notPick));
 //   }
 //   return recursion(arr, n);
 // }
@@ -51,19 +51,19 @@
 //   return dp[n];
 // }
 
-function solution(arr) {
-  let prev = arr[0];
-  let sPrev = 0;
+// function solution(arr) {
+//   let prev = arr[0];
+//   let sPrev = 0;
 
-  for (let i = 1; i < arr.length; i++) {
-    let take = arr[i] + sPrev;
-    let nTake = prev;
+//   for (let i = 1; i < arr.length; i++) {
+//     let take = arr[i] + sPrev;
+//     let nTake = prev;
 
-    let curI = Math.max(take, nTake);
-    sPrev = prev;
-    prev = curI;
-  }
-  return prev;
-}
+//     let curI = Math.max(take, nTake);
+//     sPrev = prev;
+//     prev = curI;
+//   }
+//   return prev;
+// }
 
 console.log(solution([6, 5, 5, 7, 4]));
