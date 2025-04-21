@@ -276,4 +276,5 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-18 | - [Stickler Thief](./Dp/sticklerThief.js)                                |
 | 2025-04-18 | - [Stickler Thief II](./Dp/sticklerThiefII.js)                           |
 | 2025-04-19 | - [Longest Increasing Subsequence](./Dp/longestIncreasingSubsequence.js) |
-| 2025-04-19 | - [Longest Common Subsequence](./Dp/longestCommonSubsequence.js)         |
+| 2025-04-20 | - [Longest Common Subsequence](./Dp/longestCommonSubsequence.js)         |
+| 2025-04-21 | - [Longest Common Sub String](./Dp/longestCommonSubString.js)            |
