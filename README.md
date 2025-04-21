@@ -269,12 +269,13 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 
 ## 🔑 **Dynamic Programing **
 
-| 📅 Date    | 🧩 Problems                                                              |
-| ---------- | ------------------------------------------------------------------------ |
-| 2025-04-17 | - [Basic](./Dp/basic.js)                                                 |
-| 2025-04-17 | - [Ways to Reach the n'th Stair](./Dp/waysToReachThenthStair.js)         |
-| 2025-04-18 | - [Stickler Thief](./Dp/sticklerThief.js)                                |
-| 2025-04-18 | - [Stickler Thief II](./Dp/sticklerThiefII.js)                           |
-| 2025-04-19 | - [Longest Increasing Subsequence](./Dp/longestIncreasingSubsequence.js) |
-| 2025-04-20 | - [Longest Common Subsequence](./Dp/longestCommonSubsequence.js)         |
-| 2025-04-21 | - [Longest Common Sub String](./Dp/longestCommonSubString.js)            |
+| 📅 Date    | 🧩 Problems                                                                |
+| ---------- | -------------------------------------------------------------------------- |
+| 2025-04-17 | - [Basic](./Dp/basic.js)                                                   |
+| 2025-04-17 | - [Ways to Reach the n'th Stair](./Dp/waysToReachThenthStair.js)           |
+| 2025-04-18 | - [Stickler Thief](./Dp/sticklerThief.js)                                  |
+| 2025-04-18 | - [Stickler Thief II](./Dp/sticklerThiefII.js)                             |
+| 2025-04-19 | - [Longest Increasing Subsequence](./Dp/longestIncreasingSubsequence.js)   |
+| 2025-04-20 | - [Longest Common Subsequence](./Dp/longestCommonSubsequence.js)           |
+| 2025-04-21 | - [Longest Common Sub String](./Dp/longestCommonSubString.js)              |
+| 2025-04-21 | - [Longest Palindromic Subsequence](./Dp/longestPalindromicSubsequence.js) |
