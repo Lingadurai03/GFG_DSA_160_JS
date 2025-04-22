@@ -279,3 +279,4 @@ This repository holds my solutions to the GeeksforGeeks 160 Days DSA Challenge i
 | 2025-04-20 | - [Longest Common Subsequence](./Dp/longestCommonSubsequence.js)           |
 | 2025-04-21 | - [Longest Common Sub String](./Dp/longestCommonSubString.js)              |
 | 2025-04-21 | - [Longest Palindromic Subsequence](./Dp/longestPalindromicSubsequence.js) |
+| 2025-04-22 | - [Longest Palindrome in a String](./Dp/longestPalindromeInAString.js)     |
